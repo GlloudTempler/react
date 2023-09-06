@@ -1,0 +1,29 @@
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bagel+Fat+One&family=Black+Han+Sans&family=Lobster&family=Pacifico&family=Roboto+Mono&family=Satisfy&display=swap');
+
+  .navbar-brand {
+    font-family: 'Pacifico', cursive;
+  }
+
+  #navbarDropdown{
+    font-family: 'Satisfy', cursive;
+  }
+
+  .row {
+    font-family: 'Lobster', cursive;
+  }
+
+  .homeStr {
+    font-family: 'Black Han Sans', sans-serif;
+  }
+
+  .form-control {
+    font-family: 'Roboto Mono', monospace;
+  }
+
+  .table {
+    font-family: 'Black Han Sans', sans-serif;
+  }
+
+  .table-dark {
+    font-family: 'Satisfy', cursive
+  }

@@ -1,0 +1,34 @@
+{
+  "customer": [
+    {
+      "id": 2,
+      "cname": "임꺽정",
+      "email": "lim@daum.net",
+      "phone": "010-1234-5435"
+    },
+    {
+      "id": 3,
+      "cname": "장길산",
+      "email": "jang@gmail.com",
+      "phone": "010-1234-5678"
+    },
+    {
+      "cname": "홍박사",
+      "email": "hong@hongmail.com",
+      "phone": "010-0123-7096",
+      "id": 4
+    }
+  ],
+  "dept": [
+    {
+      "dname": "부서 2",
+      "loc": "위치 2",
+      "id": 6
+    },
+    {
+      "dname": "부서 3",
+      "loc": "위치 3",
+      "id": 7
+    }
+  ]
+}
